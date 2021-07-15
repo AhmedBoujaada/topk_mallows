@@ -9,7 +9,7 @@ setup(
     author_email='aboujaada@bcamath.org',
     license='',
     keywords=['Mallows models', 'Top-k rankings', 'Permutations', 'Kendall\'s tau distance', 'Hamming distance', 'Rankings', 'Complete rankings'],
-    packages=['top-k-mallows'],
+    packages=['topk_mallows'],
     install_requires=['numpy',
     ,'scipy', 'itertools'],
 
