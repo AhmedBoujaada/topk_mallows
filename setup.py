@@ -4,7 +4,7 @@ setup(
     name='topk_mallows',
     version='0.0.1',    
     description='A python package to for Mallows Model with top-$k$ and complete rankingsu using both Kendall and Hamming distance.',
-    url='https://github.com/AhmedBoujaada/top-k-mallows-test',
+    url='https://github.com/AhmedBoujaada/topk_mallows',
     author='Ahmed Boujaada and Ekhine Irurozki,
     author_email='aboujaada@bcamath.org',
     license='',
